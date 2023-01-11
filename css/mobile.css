@@ -1,0 +1,126 @@
+@media screen and (max-width: 620px) {
+
+	.info {
+		margin-bottom: 0px;
+		font-size: 55px;
+	}
+
+	h1 {
+		margin-bottom: 0px;
+		font-size: 50px;
+	}
+
+	h2 {
+		margin-top: 0px;
+		font-size: 21px;
+		color: #48FFC6;
+		font-family: 'Josefin Sans', sans-serif;
+	}
+
+	main a img {
+		border-radius: 10px;
+		width: 300px;
+		margin-bottom: 30px;
+		box-shadow: 0px 5px 10px black;
+		transition: .2s;
+	}
+
+	section h2 {
+		margin-top: 0px;
+		padding-bottom: 5px;
+		font-size: 23px;
+		color: #48FFC6;
+		font-family: 'Josefin Sans', sans-serif;
+	}
+
+	.archives h2 {
+		padding-bottom: 50px;
+	}
+
+	.hrb {
+		margin-bottom: 75px;
+	}
+
+	.hrc {
+		margin-top: 100px;
+	}
+	
+}
+
+@media screen and (max-width: 450px) {
+
+	header nav ul .left h1 {
+		margin-left: 10px;
+	}
+
+	header nav ul .right a {
+		margin-right: 10px;
+	}
+
+	.info {
+		margin-bottom: 0px;
+		font-size: 40px;
+	}
+
+	h1 {
+		margin-bottom: 0px;
+		font-size: 40px;
+	}
+
+	h2 {
+		margin-top: 0px;
+		font-size: 18px;
+		color: #48FFC6;
+		font-family: 'Josefin Sans', sans-serif;
+	}
+
+	#creations {
+		margin-top: 200px;
+	}
+
+	main {
+		margin-top: 150px;
+	}
+
+	main .warp {
+		word-spacing: 0.50cm;
+	}
+
+}
+
+@media screen and (max-width: 290px) {
+
+	header nav ul .left h1 {
+		margin-left: 10px;
+	}
+
+	header nav ul .right a {
+		font-size: 15px;
+	}
+
+	.info {
+		margin-bottom: 0px;
+		font-size: 35px;
+	}
+
+	h1 {
+		margin-bottom: 0px;
+		font-size: 35px;
+	}
+
+	h2 {
+		margin-top: 0px;
+		font-size: 15px;
+		color: #48FFC6;
+		font-family: 'Josefin Sans', sans-serif;
+	}
+
+	main a img {
+		border-radius: 10px;
+		width: 200px;
+		margin-bottom: 30px;
+		box-shadow: 0px 5px 10px black;
+		transition: .2s;
+	}
+
+}
